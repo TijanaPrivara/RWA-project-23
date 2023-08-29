@@ -15,7 +15,7 @@ Git
 10. Open a web browser and visit http://localhost:8000/docs to access the application.
 
 # Database
-- MongoDB URI: `mongodb+srv://app:PA4U6EXbJhPadHJW@demo.o2mlker.mongodb.net/`
+- MongoDB URI needed
 
 # Registered user
 - username: admin
