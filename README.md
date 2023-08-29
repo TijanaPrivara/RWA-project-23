@@ -21,7 +21,7 @@ Git
 - username: admin
 - password: adminpass1
 
-# Informacije o projektu
+# Project info
 
 Aplikacija je osmišljena kao jednostavno upravljanje projektima. Ovdje su ključne informacije:
 - Registracija i Prijava: Korisnici mogu se registrirati i prijaviti. Pristup funkcionalnostima aplikacije omogućen je samo uz ispravne prijavne podatke koji se pohranjuju u bazi.
